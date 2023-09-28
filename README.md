@@ -35,6 +35,7 @@ Let me introduce you to the tools of my trade. Below, you'll find a list of the 
 ![Jira](https://img.shields.io/badge/jira-0a0fff?style=for-the-badge&logo=jira&logoColor=fff&cacheSeconds=3600)
 ![Slack](https://img.shields.io/badge/slack-4a154b?style=for-the-badge&logo=slack&logoColor=fff&cacheSeconds=3600)
 ![Wordpress](https://img.shields.io/badge/wordpress-444140?style=for-the-badge&logo=wordpress&logoColor=fff&cacheSeconds=3600)
+![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=for-the-badge&logo=openai&logoColor=fff&cacheSeconds=3600)
 
 ## Contacts
 
