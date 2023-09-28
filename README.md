@@ -2,6 +2,8 @@
 
 My name is Evgeniy. I'm an experienced programmer with a strong background, but I never stop learning and constantly strive for self-improvement. I have a deep passion for my work and approach it with a high level of responsibility.
 
+![Codewars](https://www.codewars.com/users/zchepygov/badges/large)
+
 ## Key skills
 
 I'm thrilled to share some of the skills I bring to the table. Below, you'll find a snapshot of my expertise.
